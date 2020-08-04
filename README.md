@@ -36,3 +36,5 @@ wget --no-check-certificate -O /www/1.gif http://upload.wikimedia.org/wikipedia/
 uci set uhttpd.main.error_page="/1.gif" && uci commit
 /etc/init.d/uhttpd restart
 ```
+=======
+# openwrt-adblock
